@@ -7,14 +7,14 @@
 
 We all know that AI can hallucinate information just like humans do. But can AI also understand the experience of synesthesia? This project explores training an AI model to produce music based on images to see if the AI can effectively mimic the experience of synesthesia. The AI model will generate short music audio clips based on images provided by the user. After a user uploads the image and plays the short song generated, the user can then rate the song on whether it correctly captures the essence of that song in relation to the experience of synesthesia.
 
-## What is Synesthesia?
+### What is Synesthesia?
 
 Synesthesia is
 
 
 ---
 
-# How to Use
+## How to Use
 
 1. **Upload an Image**
 
@@ -47,5 +47,6 @@ Synesthesia is
    
 
 ---
-## Author
+
+### Author
 Created by Ila Wallace
