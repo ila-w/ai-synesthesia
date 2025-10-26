@@ -1,4 +1,4 @@
-# AI Synthesia
+# AI Synesthesia
 *The Human-Driven AI Synesthesia Experiment*
 
 ---
