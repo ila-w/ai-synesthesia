@@ -9,7 +9,7 @@ We all know that AI can hallucinate information just like humans do. But can AI 
 
 ### What is Synesthesia?
 
-According to the American Psychology Association (APA), synesthias is "a condition in which stimulation of one sense generates a simultaneous sensation in another." What this means is that someone could potentially hear certain sounds when looking at colors or could even see letters as colors. In the case of this project, we are trying to see if an AI model can correctly predict what sounds a human would associate with an image in order to mimic synesthesia. If you would like to learn more about this strange yet interesting phenomenon in action, click on the following:
+According to the American Psychology Association (APA), synesthesia is "a condition in which stimulation of one sense generates a simultaneous sensation in another." What this means is that someone could potentially hear certain sounds when looking at colors or could even see letters as colors. In the case of this project, we are trying to see if an AI model can correctly predict what sounds a human would associate with an image in order to mimic synesthesia. If you would like to learn more about this strange yet interesting phenomenon in action, click on the following:
 
 [![The Weird Reason Some People Can Taste Colors](https://img.youtube.com/vi/pPIem63bC4w/0.jpg)](https://www.youtube.com/watch?v=pPIem63bC4w)
 
