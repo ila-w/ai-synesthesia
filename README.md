@@ -19,6 +19,7 @@ According to the American Psychology Association (APA), synesthesia is "a condit
 This project is under development, so check back soon!
 
 Current Project Progression: 1% Completed
+Current Project Phase: Researching, Designing, and Planning
 
 ---
 
