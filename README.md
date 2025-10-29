@@ -71,5 +71,7 @@ This section will be filled out when each portion of the project is completed.
 
 ### Author
 Ila Wallace
-Initialized: October 26th, 2025
+
+Initialized: October 25th, 2025
+
 Last Updated: October 28th, 2025
