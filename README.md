@@ -5,11 +5,15 @@
 
 ## Overview
 
-We all know that AI can hallucinate information just like humans do. But can AI also understand the experience of synesthesia? This project explores training an AI model to produce music based on images to see if the AI can effectively mimic the experience of synesthesia. The AI model will generate short music audio clips based on images provided by the user. After a user uploads the image and plays the short song generated, the user can then rate the song on whether it correctly captures the essence of that song in relation to the experience of synesthesia.
+We all know that AI can hallucinate information just like humans do. But can AI also understand the experience of synesthesia? 
+
+This project explores training an AI model to produce music based on images to see if the AI can effectively mimic the experience of synesthesia. The AI model will generate short music audio clips based on images provided by the user. After a user uploads the image and plays the short song generated, the user can then rate the song on whether it correctly captures the essence of that song in relation to the experience of synesthesia.
 
 ### What is Synesthesia?
 
-According to the American Psychology Association (APA), synesthesia is "a condition in which stimulation of one sense generates a simultaneous sensation in another." What this means is that someone could potentially hear certain sounds when looking at colors or could even see letters as colors. In the case of this project, we are trying to see if an AI model can correctly predict what sounds a human would associate with an image in order to mimic synesthesia. If you would like to learn more about this strange yet interesting phenomenon in action, click on the following:
+According to the American Psychology Association (APA), synesthesia is "a condition in which stimulation of one sense generates a simultaneous sensation in another." What this means is that someone could potentially hear certain sounds when looking at colors or could even see letters as colors. In the case of this project, we are trying to see if an AI model can correctly predict what sounds a human would associate with an image in order to mimic synesthesia. 
+
+If you would like to learn more about this strange yet interesting phenomenon in action, click on the following:
 
 [![What color is Tuesday? Exploring synesthesia - Richard E. Cytowic](https://img.youtube.com/vi/rkRbebvoYqI/0.jpg)](https://www.youtube.com/watch?v=rkRbebvoYqI)
 
